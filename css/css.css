@@ -2,10 +2,12 @@
 	margin:0px;
 	padding:0px;
 }
+
 .row{ 
 	float:left;
 	border:solid 2px black;
 }
+
 .black{
 	background-color:black;
 	width: 50px;
